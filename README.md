@@ -4,6 +4,8 @@ Are you constantly checking your Fiverr gig management page for new orders or me
 
 ## Usage
 
+To use this code, simply copy and paste it into your web browser console while on the Fiverr gig management page.
+
 1. Copy the code in `Fiverr-Online.js` to your clipboard.
 2. Go to your Fiverr seller dashboard.
 3. Open the browser console (usually by pressing F12).
@@ -18,4 +20,7 @@ You can customize the interval and URL by changing the values in the first line 
 ```javascript
 const interval_min = 7; // Reload wait time value
 const url = "https://www.fiverr.com/users/username/manage_gigs"; // URL of page
-...
+```
+
+## Note
+Please note that this code is provided as is, and is intended for personal use only. Use it at your own risk.
