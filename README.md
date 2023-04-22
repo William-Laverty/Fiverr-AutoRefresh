@@ -16,14 +16,6 @@ The code will create an iframe that loads your seller dashboard and reloads it a
 You can customize the interval and URL by changing the values in the first line of the code:
 
 ```javascript
-(function (interval_min, url) {
-  // Constants
-  var CONTAINER_TOP_OFFSET = 30;
-  var CONTAINER_MARGIN = 20,
-      CONTAINER_PADDING = 10,
-      BUTTON_CONTAINER_HEIGHT = 30;
-
-  // Set the interval (in minutes) and URL here
-  var interval = interval_min * 60 * 1000; // Convert minutes to milliseconds
-  var url = url;
+const interval_min = 7; // Reload wait time value
+const url = "https://www.fiverr.com/users/username/manage_gigs"; // URL of page
   ...
