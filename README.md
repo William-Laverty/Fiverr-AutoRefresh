@@ -1,6 +1,6 @@
 # Fiverr AutoRefresh
 
-Are you constantly checking your Fiverr gig management page for new orders or messages, but frustrated with having to manually refresh the page every few minutes? Our simple JavaScript code automates the process for you, opening your gig management page in an iframe and automatically refreshing it at your desired interval. Say goodbye to tedious manual refreshing and hello to 24/7 productivity with our Fiverr Online 24/7 tool!
+Are you constantly checking your Fiverr gig management page for new orders or messages, but frustrated with having to manually refresh the page every few minutes? Our simple JavaScript code automates the process for you, opening your gig management page in an iframe and automatically refreshing it at your desired interval. Say goodbye to tedious manual refreshing and hello to 24/7 productivity with our Fiverr AutoRefresh tool!
 
 ## Usage
 
