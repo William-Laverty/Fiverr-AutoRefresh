@@ -6,7 +6,7 @@ Are you constantly checking your Fiverr gig management page for new orders or me
 
 To use this code, simply copy and paste it into your web browser console while on the Fiverr gig management page.
 
-1. Copy the code in `Fiverr-Online.js` to your clipboard.
+1. Copy the code in `fiverrOnline.js` to your clipboard.
 2. Go to your Fiverr seller dashboard.
 3. Open the browser console (usually by pressing F12).
 4. Paste the code into the console and press Enter.
